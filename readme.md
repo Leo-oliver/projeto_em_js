@@ -1,0 +1,1 @@
+Pequeno projeto em JavaScript com a função de adicionar, remover e efetivar tarefas.
